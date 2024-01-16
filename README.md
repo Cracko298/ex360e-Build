@@ -8,4 +8,4 @@
 - **Again this is built from source, and it being an Experimental Emulator means that not Everything is Guarenteed to Work.**
 
 ## Download(s):
-- **Download "Ex360E" [Here]().**
+- **Download "Ex360E" [Here](https://github.com/Cracko298/ex360e-Build/releases/download/v1/ex360e.zip).**
